@@ -52,7 +52,9 @@ This architecture enables high accuracy for both classification and localization
 
 - **Visual Sample Output**:
 
-  ![Sample Detection](./6eb473a3-9e6e-433a-b5bc-2f2954649fe4.png)
+  (Sample Detection)
+  ![image](https://github.com/user-attachments/assets/09c837e5-68d8-464e-86a7-b3534835dae1)
+
 
   *Detection Output: Identified persons, bottles, and a dining table using the Faster R-CNN model.*
 
