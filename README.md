@@ -85,18 +85,6 @@ This architecture enables high accuracy for both classification and localization
 
 ---
 
-📊 Results & Evaluation
-Qualitative Evaluation was done by plotting bounding boxes on sample test images.
-
-Bounding boxes are:
-
-🟥 Red or 🟦 Blue for predictions, depending on label/implementation
-
-📌 Example Detection Output:
-
-
-Figure: Output from Faster R-CNN (ResNet-50 FPN) trained on Pascal VOC — correct detections include person, bottle, and diningtable, showing decent performance even with limited training epochs.
-
 ## 🤖 AI Tools Used
 
 | Tool           | Purpose                                                                  |
