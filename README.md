@@ -72,9 +72,7 @@ This architecture enables high accuracy for both classification and localization
    cd faster-rcnn-object-detection-voc
 
 
-2. Open the Colab notebook:
-
-   * [📔 Google Colab Notebook]
+2. Open the Colab notebook
 
 3. Dependencies:
 
