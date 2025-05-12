@@ -1,6 +1,4 @@
-Sure! Here's the entire `README.md` content you provided, formatted in a Bash code block so you can copy and paste or directly save it:
 
-````bash
 **`faster-rcnn-object-detection-voc`**
 
 # 📦 Object Detection with Faster R-CNN on Pascal VOC
@@ -70,7 +68,7 @@ This architecture enables high accuracy for both classification and localization
    ```bash
    git clone https://github.com/yourusername/faster-rcnn-object-detection-voc.git
    cd faster-rcnn-object-detection-voc
-````
+
 
 2. Open the Colab notebook:
 
@@ -84,6 +82,18 @@ This architecture enables high accuracy for both classification and localization
    * `matplotlib`, `numpy`
 
 ---
+
+📊 Results & Evaluation
+Qualitative Evaluation was done by plotting bounding boxes on sample test images.
+
+Bounding boxes are:
+
+🟥 Red or 🟦 Blue for predictions, depending on label/implementation
+
+📌 Example Detection Output:
+
+
+Figure: Output from Faster R-CNN (ResNet-50 FPN) trained on Pascal VOC — correct detections include person, bottle, and diningtable, showing decent performance even with limited training epochs.
 
 ## 🤖 AI Tools Used
 
