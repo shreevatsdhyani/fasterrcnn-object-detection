@@ -117,8 +117,3 @@ This project helped me gain practical insight into object detection pipelines an
 Thank you for the opportunity!
 
 — **Shreevats Dhyani**
-
-```
-
-Let me know if you want this zipped or linked to a GitHub repo structure too!
-```
