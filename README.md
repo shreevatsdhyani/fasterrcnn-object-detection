@@ -74,7 +74,7 @@ This architecture enables high accuracy for both classification and localization
 
 2. Open the Colab notebook:
 
-   * [📔 Google Colab Notebook](#) *(Replace with actual link)*
+   * [📔 Google Colab Notebook]
 
 3. Dependencies:
 
